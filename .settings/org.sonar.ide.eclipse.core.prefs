@@ -1,0 +1,9 @@
+analyseLocally=false
+eclipse.preferences.version=1
+extraProperties=sonar.host.url\=http\://poomit-Aspire-7741\:9876\r\nsonar.jdbc.password\=sonar\r\nsonar.jdbc.username\=sonar\r\nsonar.jdbc.url\=jdbc\:h2\:tcp\://poomit-Aspire-7741\:9092/sonar\r\nsonar.jdbc.driver\=org.h2.Driver
+projectArtifactId=accuWeatherProcessor
+projectBranch=
+projectGroupId=accuWeatherProcessor
+projectKey=accuWeatherProcessor\:accuWeatherProcessor
+serverUrl=http\://poomit-Aspire-7741\:9876
+version=2

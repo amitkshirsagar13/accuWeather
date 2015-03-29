@@ -1,0 +1,94 @@
+<root>                  
+<div id="detail-day-night" class="detail-tab-panel">                     
+<div class="day">                       
+<div class="bg bg-su">                         
+<div class="icon i-msu">
+<div class="info"> 
+<span class="cond">
+<span class="hi">Hi 
+<span class="temp">28
+<span>
+<span class="realfeel">RealFeel&#174; 29&#176;
+<span class="realfeel">Precipitation 9%
+<div class="nub">
+<div class="content">                         
+<h4>Day
+<div class="desc">                           
+<div class="rt" style="text-align:center;">                            
+<div class="wind-box-sm">                              
+<div id="wind-arm-day" class="wind-arm">
+<p class="n">N
+<p class="e">E
+<p class="s">S
+<p class="w">W
+<img src="http://vortex.accuweather.com/adc2010/images/icons-wind/sm_SSE.png" width="84" height="76" alt="Wind" />                                                            -->                            
+<ul class="stats">                                 
+<li>                                 
+<strong style="">SSE 10 km/h
+<li style="margin-top:-2px;">                                 Gusts:
+<strong style=""> 18 km/h
+<p>Warmer
+<ul class="stats">                           
+<li>Max UV Index: 
+<strong>7
+<li>Thunderstorms: 
+<strong style="">24%
+<li>Precipitation: 
+<strong>0 mm
+<li>Rain: 
+<strong style="">0 mm
+<li>Snow: 
+<strong style="">0 CM
+<li>Ice: 
+<strong style="">0 mm
+<li>Hours of Precipitation: 
+<strong>0 hrs
+<li>Hours of Rain: 
+<strong>0 hrs
+<div class="night">                       
+<div class="bg bg-s">                         
+<div class="icon i-mc">
+<div class="info"> 
+<span class="cond">
+<span class="lo">Lo 
+<span class="temp">11
+<span>
+<span class="realfeel">RealFeel&#174; 9&#176;
+<span class="realfeel">Precipitation 13%
+<div class="nub">
+<div class="content">                         
+<h4>Night
+<div class="desc">                           
+<div class="rt" style="text-align:center;">                                                 
+<div class="wind-box-sm">                              
+<div id="wind-arm-night" class="wind-arm">
+<p class="n">N
+<p class="e">E
+<p class="s">S
+<p class="w">W
+<script type="text/javascript">	                                (function () {	                                    var d = 'N';	                                    var s = '8kph';	                                    $('#wind-arm-night').flash({ 'wmode': 'transparent', 'allowScriptAccess': 'always', 'src': 'http://vortex.accuweather.com/adc2010/flash/wind-arm-small.swf?speed=' + s + '&direction=' + d.toLowerCase() + '&units=kph', 'width': '84', 'height': '76' });	                                    if (typeof (acm_hasFlash) != 'undefined' && !acm_hasFlash) {	                                        $('#wind-arm-night').html('
+<img src="http://vortex.accuweather.com/adc2010/images/icons-wind/arrow-sm-' + d + '.png" />');	                                    }	                                })();	                            
+<img src="http://vortex.accuweather.com/adc2010/images/icons-wind/sm_N.png" width="84" height="76" alt="Wind" />                           -->                              
+<ul class="stats">                                 
+<li>                                
+<strong style="">N 8 km/h
+<li style="margin-top:-2px;">                                 Gusts:
+<strong style=""> 16 km/h
+<p>Variable cloudiness
+<ul class="stats">                           
+<li>Max UV Index: 
+<strong>N/A
+<li>Thunderstorms: 
+<strong style="">23%
+<li>Precipitation: 
+<strong>0 mm
+<li>Rain: 
+<strong style="">0 mm
+<li>Snow: 
+<strong style="">0 CM
+<li>Ice: 
+<strong style="">0 mm
+<li>Hours of Precipitation: 
+<strong>0 hrs
+<li>Hours of Rain: 
+<strong>0 hrs

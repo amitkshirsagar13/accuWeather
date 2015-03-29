@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<div id="detail-now" class="detail-tab-panel day">
+		<div class="bg bg-r">
+			<div class="forecast">
+				<div class="icon i-sn"></div>
+				<div class="info">
+					<span class="cond">Snow</span>
+					<span class="temp">
+						14
+						<span></span>
+					</span>
+					<span class="realfeel">RealFeel 4</span>
+				</div>						<!-- /.info -->
+			</div>					  <!-- /.forecast -->
+			<div class="more-info">
+				<img src="/adc2010/images/icons-wind/SSE.gif" width="260"
+					height="138" alt="" />
+				<ul class="stats">
+					<li>
+						Humidity:
+						<strong>80%</strong>
+					</li>
+					<li>
+						Pressure:
+						<strong>30.50in</strong>
+					</li>
+					<li>
+						Cloud Cover:
+						<strong>100 %</strong>
+					</li>
+					<li>
+						UV Index:
+						<strong>1</strong>
+					</li>
+					<li>
+						Dew Point:
+						<strong>9F</strong>
+					</li>
+					<li>
+						Amount of Precipitation(1 Hr):
+						<strong>0.00in</strong>
+					</li>
+					<li>
+						Visibility:
+						<strong>1Miles</strong>
+					</li>
+				</ul>						<!-- /.stats -->
+			</div>					  <!-- /.more-info -->
+			<div
+				style="position:absolute;top:124px;left:427px;height:20px;font-weight:bold;font-size:10px;text-align:center;">9mph</div>
+		</div>					<!-- /.bg -->
+	</div>
+</root>

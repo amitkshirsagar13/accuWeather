@@ -1,0 +1,5 @@
+cd workspace/accuweatherconky/accuweatherconky/
+mvn sonar:sonar
+bzr add ./sampleData/bzr.txt
+bzr commit -m "Updated package"
+bzr push lp:~amit-kshirsagar/accuweatherconky/accuweatherconky
