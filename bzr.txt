@@ -1,6 +1,6 @@
 Google cP3hW9Dq5JZ8     
      
-     bzr push lp:~amit-kshirsagar-13/accuweatherconkyprocessor/accuweatherconky
+     bzr push lp:~amit-kshirsagar-13/accuweatherconkyprocessor/Amogh123
 GitHub:
 
 https://github.com/amitkshirsagar13/accuWeather
