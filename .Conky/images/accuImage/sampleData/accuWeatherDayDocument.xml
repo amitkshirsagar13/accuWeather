@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>                  
+<div id="detail-day-night" class="detail-tab-panel">                     
+<div class="day">                       
+<div class="bg bg-su">                         
+<div class="icon i-4-l">
+</div>                         
+<div class="info"> 
+<span class="cond">
+</span> 
+<span class="hi">Hi 
+</span>
+<span class="temp">25
+<span>
+</span>
+</span>                             
+<span class="realfeel">RealFeel&amp;#174; 25&amp;#176;
+</span>                            
+<span class="realfeel">Precipitation 55%
+</span>                        
+</div>                         
+<!-- /.info -->                         
+<div class="nub">
+</div>                       
+</div>                       
+<!-- /.bg -->                       
+<div class="content">                         
+<h4>Day
+</h4>                         
+<div class="desc">                           
+<div class="rt" style="text-align:center;">                            
+<div class="wind-box-sm">                              
+<div id="wind-arm-day" class="wind-arm">
+</div>                                
+<p class="n">N
+</p>                                
+<p class="e">E
+</p>                                
+<p class="s">S
+</p>                                
+<p class="w">W
+</p>                              
+</div>                                                         
+<!--                            
+<img src="http://vortex.accuweather.com/adc2010/images/icons-wind/sm_SSW.png" width="84" height="76" alt="Wind" />                                                            -->                            
+<ul class="stats">                                 
+<li>                                 
+<strong style="">SSW 22 km/h
+</strong>                                 
+</li>                                 
+<li style="margin-top:-2px;">                                 Gusts:
+<strong style=""> 39 km/h
+</strong>                                 
+</li>                             
+</ul>                           
+</div>                           
+<p>Breezy in the morning; times of clouds and sun with a shower or thunderstorm around
+</p>                         
+</div>                         
+<!-- /.desc -->                         
+<ul class="stats">                           
+<li>Max UV Index: 
+<strong>7
+</strong> (High)
+</li>                           
+<li>Thunderstorms: 
+<strong style="">40%
+</strong>
+</li>                           
+<li>Precipitation: 
+<strong>3 mm
+</strong>
+</li>                           
+<li>Rain: 
+<strong style="">3 mm
+</strong>
+</li>                           
+<li>Snow: 
+<strong style="">0 CM
+</strong>
+</li>                           
+<li>Ice: 
+<strong style="">0 mm
+</strong>
+</li>                          
+<li>Hours of Precipitation: 
+<strong>1 hrs
+</strong>
+</li>                           
+<li>Hours of Rain: 
+<strong>1 hrs
+</strong>
+</li>                         
+</ul>                         
+<!-- /.stats -->                       
+</div>                       
+<!-- /.content -->                     
+</div>                     
+<!-- /.day -->                     
+<div class="night">                       
+<div class="bg bg-s">                         
+<div class="icon i-15-l">
+</div>                         
+<div class="info"> 
+<span class="cond">
+</span> 
+<span class="lo">Lo 
+</span>
+<span class="temp">19
+<span>
+</span>
+</span>                             
+<span class="realfeel">RealFeel&amp;#174; 15&amp;#176;
+</span>                            
+<span class="realfeel">Precipitation 65%
+</span>                        
+</div>                         
+<!-- /.info -->                         
+<div class="nub">
+</div>                       
+</div>                       
+<!-- /.bg -->                       
+<div class="content">                         
+<h4>Night
+</h4>                         
+<div class="desc">                           
+<div class="rt" style="text-align:center;">                                                 
+<div class="wind-box-sm">                              
+<div id="wind-arm-night" class="wind-arm">
+</div>                                
+<p class="n">N
+</p>                                
+<p class="e">E
+</p>                                
+<p class="s">S
+</p>                                
+<p class="w">W
+</p>                              
+</div>                                                      
+<!--                          
+<img src="http://vortex.accuweather.com/adc2010/images/icons-wind/sm_SW.png" width="84" height="76" alt="Wind" />                           -->                              
+<ul class="stats">                                 
+<li>                                
+<strong style="">SW 18 km/h
+</strong>                                 
+</li>                                 
+<li style="margin-top:-2px;">                                 Gusts:
+<strong style=""> 28 km/h
+</strong>                                 
+</li>                             
+</ul>                           
+</div>                           
+<p>Watch for severe thunderstorms; cloudy and warm
+</p>                         
+</div>                         
+<!-- /.desc -->                         
+<ul class="stats">                           
+<li>Max UV Index: 
+<strong>N/A
+</strong>
+</li>                           
+<li>Thunderstorms: 
+<strong style="">100%
+</strong>
+</li>                           
+<li>Precipitation: 
+<strong>21 mm
+</strong>
+</li>                           
+<li>Rain: 
+<strong style="">21 mm
+</strong>
+</li>                           
+<li>Snow: 
+<strong style="">0 CM
+</strong>
+</li>                           
+<li>Ice: 
+<strong style="">0 mm
+</strong>
+</li>                           
+<li>Hours of Precipitation: 
+<strong>4 hrs
+</strong>
+</li>                           
+<li>Hours of Rain: 
+<strong>4 hrs
+</strong>
+</li>                        
+</ul>                         
+<!-- /.stats -->                       
+</div>                       
+<!-- /.content -->                     
+</div>                     
+<!-- /.night -->                   
+</div> 
+</root>

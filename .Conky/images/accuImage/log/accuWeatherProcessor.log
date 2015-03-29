@@ -1,0 +1,192 @@
+Sun, 29 Mar 2015 15:15:27 PM
+
+----------------------------------------------------
+
+DayOfWeek:Today
+
+Day Icon:4-l.png
+Day Temp:18
+Day Feel:18
+Day Cond:
+Day Wind:S 20 km/h
+Day UV:null
+Day Humi:null
+Day Press:null
+Day Visi:null
+Day Cloud:null
+Day Dew:null
+Day Presp:null
+Day City:null
+Day Ceiling:null
+Night Icon:15-l.png
+Night Temp:10
+Night Feel:9
+Night Cond:
+Night Wind:NW 9 km/h
+Night UV:null
+Night Humi:null
+Night Press:null
+Night Visi:null
+Night Cloud:null
+Night Dew:null
+Night Presp:null
+Night City:null
+Night Ceiling:null
+----------------------------------------------------
+
+DayOfWeek:Mon
+
+Day Icon:3-l.png
+Day Temp:21
+Day Feel:24
+Day Cond:
+Day Wind:NE 9 km/h
+Day UV:null
+Day Humi:null
+Day Press:null
+Day Visi:null
+Day Cloud:null
+Day Dew:null
+Day Presp:null
+Day City:null
+Day Ceiling:null
+Night Icon:38-l.png
+Night Temp:10
+Night Feel:8
+Night Cond:
+Night Wind:SSE 9 km/h
+Night UV:null
+Night Humi:null
+Night Press:null
+Night Visi:null
+Night Cloud:null
+Night Dew:null
+Night Presp:null
+Night City:null
+Night Ceiling:null
+----------------------------------------------------
+
+DayOfWeek:Tue
+
+Day Icon:15-l.png
+Day Temp:23
+Day Feel:23
+Day Cond:
+Day Wind:WSW 11 km/h
+Day UV:null
+Day Humi:null
+Day Press:null
+Day Visi:null
+Day Cloud:null
+Day Dew:null
+Day Presp:null
+Day City:null
+Day Ceiling:null
+Night Icon:36-l.png
+Night Temp:14
+Night Feel:14
+Night Cond:
+Night Wind:SW 7 km/h
+Night UV:null
+Night Humi:null
+Night Press:null
+Night Visi:null
+Night Cloud:null
+Night Dew:null
+Night Presp:null
+Night City:null
+Night Ceiling:null
+----------------------------------------------------
+
+DayOfWeek:Wed
+
+Day Icon:15-l.png
+Day Temp:25
+Day Feel:26
+Day Cond:
+Day Wind:S 13 km/h
+Day UV:null
+Day Humi:null
+Day Press:null
+Day Visi:null
+Day Cloud:null
+Day Dew:null
+Day Presp:null
+Day City:null
+Day Ceiling:null
+Night Icon:38-l.png
+Night Temp:16
+Night Feel:14
+Night Cond:
+Night Wind:SSW 17 km/h
+Night UV:null
+Night Humi:null
+Night Press:null
+Night Visi:null
+Night Cloud:null
+Night Dew:null
+Night Presp:null
+Night City:null
+Night Ceiling:null
+----------------------------------------------------
+
+DayOfWeek:Thu
+
+Day Icon:4-l.png
+Day Temp:25
+Day Feel:25
+Day Cond:
+Day Wind:SSW 22 km/h
+Day UV:null
+Day Humi:null
+Day Press:null
+Day Visi:null
+Day Cloud:null
+Day Dew:null
+Day Presp:null
+Day City:null
+Day Ceiling:null
+Night Icon:15-l.png
+Night Temp:19
+Night Feel:15
+Night Cond:
+Night Wind:SW 18 km/h
+Night UV:null
+Night Humi:null
+Night Press:null
+Night Visi:null
+Night Cloud:null
+Night Dew:null
+Night Presp:null
+Night City:null
+Night Ceiling:null
+----------------------------------------------------
+
+DayOfWeek:DayDetails
+
+DayDetails Icon:1-xl.png
+DayDetails Temp:19
+DayDetails Feel:20
+DayDetails Cond:Sunny
+DayDetails Wind:null
+DayDetails UV:4
+
+DayDetails Humi:46%
+
+DayDetails Press:1019.10 mb 
+
+DayDetails Visi:16 km
+
+DayDetails Cloud:0%
+
+DayDetails Dew:7 °C
+
+DayDetails Presp:null
+DayDetails City:Memphis, TN
+DayDetails Ceiling:4023 m
+
+----------------------------------------------------
+
+----------------------------------------------------
+
+Sleeping for 15m at 29/03/2015 15:15:34...zzz

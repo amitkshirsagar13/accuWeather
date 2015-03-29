@@ -1,0 +1,30 @@
+DayOfWeek:Thu
+
+Day Icon:4-l.png
+Day Temp:25
+Day Feel:25
+Day Cond:
+Day Wind:SSW 22 km/h
+Day UV:null
+Day Humi:null
+Day Press:null
+Day Visi:null
+Day Cloud:null
+Day Dew:null
+Day Presp:null
+Day City:null
+Day Ceiling:null
+Night Icon:15-l.png
+Night Temp:19
+Night Feel:15
+Night Cond:
+Night Wind:SW 18 km/h
+Night UV:null
+Night Humi:null
+Night Press:null
+Night Visi:null
+Night Cloud:null
+Night Dew:null
+Night Presp:null
+Night City:null
+Night Ceiling:null

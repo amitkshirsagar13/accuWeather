@@ -1,0 +1,96 @@
+#                 ############
+#                 # - mem: - #
+#                 ############
+#       (created 09-11-2010 by Ken Berns)
+#(For questions and suggestions -> ken.berns@yahoo.de)
+#######################
+# - Conky settings - #
+######################
+background no
+update_interval 3
+ 
+cpu_avg_samples 2
+net_avg_samples 2
+ 
+override_utf8_locale yes
+ 
+double_buffer yes
+no_buffers yes
+ 
+text_buffer_size 10240
+imlib_cache_size 0
+ 
+#############################
+# - Window specifications - #
+#############################
+own_window_class Conky
+own_window yes
+own_window_type normal
+own_window_argb_visual yes
+own_window_argb_value 180
+own_window_transparent yes
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+
+ 
+border_inner_margin 0
+border_outer_margin 0
+ 
+alignment tl
+gap_x 80
+gap_y 350
+minimum_size 160 100
+maximum_width 160
+ 
+
+#########################
+# - Graphics settings - #
+#########################
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders no
+ 
+#####################
+# - Text settings - #
+#####################
+use_xft yes
+xftfont Santana:size=10
+xftalpha 0.8
+ 
+uppercase no
+ 
+default_color FFFFFF
+
+################
+# - LUA Load - #
+################
+#####
+## Load Lua for shading (optional)
+## Set the path to your script here.
+#
+lua_load ~/.Conky/draw_bg.lua
+lua_draw_hook_pre draw_bg
+
+####
+## Load Lua for bargraphs (required)
+## Set the path to your script here.
+#
+lua_load ~/.Conky/bargraph_small.lua
+lua_draw_hook_post main_bars
+
+
+############
+# - Code - #
+############
+TEXT
+${font Santana:size 12:style=Bold}CPU Temp1: ${alignr}${hwmon temp 1} °C${font}
+${font Santana:size 12:style=Bold}CPU Temp2: ${alignr}${hwmon temp 2} °C${font}
+${font Santana:size 12:style=Bold}HDD1 Temp: ${alignr}${hddtemp /dev/sda} °C${font}
+#${font Santana:size 12:style=Bold}GPU Temp1: ${alignr}${execi 1 aticonfig --adapter=0 --odgt | grep "Temperature" | cut -c37-40} °C${font}
+${font Santana:size 12:style=Bold}GPU Temp1: ${alignr}${execi 1 sensors|grep radeon -A2|grep temp1|cut -d "+" -f2}${font}
+${font Santana:size 12:style=Bold}GPU Load:        ${color green}${execibar 1 aticonfig --adapter=0 --odgc | grep "GPU load" | cut -c32-33|tr -d %}${font}${color}
+${font Santana:size 12:style=Bold}Sound Vol:${alignr}${color blue}${execi 1 amixer -c 0 get Master | egrep -o -e 100% -e \1?([1-9])?[0-9]%|tr -d %}${font}${color}
+#${font Santana:size 12:style=Bold}Sound Vol:        ${color blue}${execibar 1 amixer -c 0 get Master | egrep -o -e 100% -e \1?([1-9])?[0-9]%|tr -d %}${font}${color}
+#${voffset 6}${font DroidSans:bold:size=8}${color4}PROCESSORS${offset 8}#${color8}${voffset -2}${hr 2}${font}
+#${voffset 4}${font StyleBats:size=9.9}${color2}k${voffset -2}${font DroidSansFallback:size=8.39}${color3}${offset 2}CPU1${offset 5}${font DroidSans:size=8.3}${cpu cpu1}%${font}
+#${voffset 2}${font StyleBats:size=9.9}${color2}k${voffset -2}${font DroidSansFallback:size=8.39}${color3}${offset 2}CPU2${offset 5}${font DroidSans:size=8.3}${cpu cpu2}%${font}
