@@ -1,14 +1,14 @@
-Sun, 29 Mar 2015 15:15:27 PM
+Sun, 29 Mar 2015 21:28:00 PM
 
 ----------------------------------------------------
 
 DayOfWeek:Today
 
 Day Icon:4-l.png
-Day Temp:18
-Day Feel:18
+Day Temp:22
+Day Feel:21
 Day Cond:
-Day Wind:S 20 km/h
+Day Wind:S 22 km/h
 Day UV:null
 Day Humi:null
 Day Press:null
@@ -18,11 +18,11 @@ Day Dew:null
 Day Presp:null
 Day City:null
 Day Ceiling:null
-Night Icon:15-l.png
+Night Icon:41-l.png
 Night Temp:10
-Night Feel:9
+Night Feel:8
 Night Cond:
-Night Wind:NW 9 km/h
+Night Wind:NW 7 km/h
 Night UV:null
 Night Humi:null
 Night Press:null
@@ -164,29 +164,29 @@ Night Ceiling:null
 
 DayOfWeek:DayDetails
 
-DayDetails Icon:1-xl.png
-DayDetails Temp:19
-DayDetails Feel:20
-DayDetails Cond:Sunny
+DayDetails Icon:7-xl.png
+DayDetails Temp:17
+DayDetails Feel:18
+DayDetails Cond:Cloudy
 DayDetails Wind:null
-DayDetails UV:4
+DayDetails UV:0
 
-DayDetails Humi:46%
+DayDetails Humi:64%
 
-DayDetails Press:1019.10 mb 
+DayDetails Press:1017.80 mb 
 
 DayDetails Visi:16 km
 
-DayDetails Cloud:0%
+DayDetails Cloud:100%
 
-DayDetails Dew:7 °C
+DayDetails Dew:11 °C
 
 DayDetails Presp:null
 DayDetails City:Memphis, TN
-DayDetails Ceiling:4023 m
+DayDetails Ceiling:5547 m
 
 ----------------------------------------------------
 
 ----------------------------------------------------
 
-Sleeping for 15m at 29/03/2015 15:15:34...zzz
+Sleeping for 15m at 29/03/2015 21:28:08...zzz
